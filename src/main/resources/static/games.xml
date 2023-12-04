@@ -1,0 +1,18 @@
+<games>
+    <game>
+        <name>Roulette-Color</name>
+        <description>In this game you have two options to bet as RED or BLACK.</description>
+        <winProbability>0.5</winProbability>
+        <winMultiplier>1</winMultiplier>
+        <maxBetAmount>100</maxBetAmount>
+        <minBetAmount>10</minBetAmount>
+    </game>
+    <game>
+        <name>Roulette-number</name>
+        <description>In this game you have two options to bet on one number from 0 to 36. Winner will gets 35 times on bet amount</description>
+        <winProbability>0.027</winProbability>
+        <winMultiplier>35</winMultiplier>
+        <maxBetAmount>50</maxBetAmount>
+        <minBetAmount>10</minBetAmount>
+    </game>
+</games>
